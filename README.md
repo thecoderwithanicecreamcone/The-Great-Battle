@@ -12,5 +12,5 @@ to strengthen yourself, and your goal is to defeat the fearsome Trip-Headed Wolf
 
 ## How to Play
 - Clone the repository or download the code
-- Compile with a C++ compiler
+- Compile with a C++ compiler - I use Programiz - https://www.programiz.com/cpp-programming/online-compiler/
 - Run and enjoy!
